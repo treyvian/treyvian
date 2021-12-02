@@ -1,4 +1,4 @@
-/header.png
+<img src="header.png">
 
 <!--
 **treyvian/treyvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I have a Bachelor Degree in Computer Science at **[UniMiB](https://www.unimib.it/)**
+- 📚 I'm currently studying for a Master Degree in Artificial Intelligence at **[Unibo](https://www.unibo.it)**
