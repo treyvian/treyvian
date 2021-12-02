@@ -1,4 +1,4 @@
-https://github.com/treyvian/treyvian/blob/main/header.png
+/header.png
 
 <!--
 **treyvian/treyvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
