@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🎓 I have a Bachelor Degree in Computer Science at **[UniMiB](https://www.unimib.it/)**
 - 📚 I'm currently studying for a Master Degree in Artificial Intelligence at **[Unibo](https://www.unibo.it)**
 - 👉 My plan is to improve my coding skills more and more...
-- 🏀 NBA fan
+- 🏀 NBA fan - ☘️ Boston Celtics
 - 📫 How to reach me: davide.pozzoli6@gmail.com
 
 ## Keep in touch
-[Twitter](https://twitter.com/davide_pozzoli) · [LinkedIn](https://www.linkedin.com/in/davide-pozzoli-573324219/)
+[Website](https://treyvian.github.io/) · [Twitter](https://twitter.com/davide_pozzoli) · [LinkedIn](https://www.linkedin.com/in/davide-pozzoli-573324219/)
