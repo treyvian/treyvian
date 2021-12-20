@@ -21,5 +21,15 @@ Here are some ideas to get you started:
 - 🏀 NBA fan - ☘️ Boston Celtics
 - 📫 How to reach me: davide.pozzoli6@gmail.com
 
+--------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api?username=treyvian&show_icons=true&locale=en&theme=dark"                alt="treyvian"/>
+</p>
+
+
+<p align="center"> 
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treyvian&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</p>
+
 ## Keep in touch
 [Website](https://treyvian.github.io/) · [Twitter](https://twitter.com/davide_pozzoli) · [LinkedIn](https://www.linkedin.com/in/davide-pozzoli-573324219/)
