@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: davide.pozzoli6@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------------------------
+<!--
 <p align="center">
   <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api?username=treyvian&show_icons=true&locale=en&theme=dark"                alt="treyvian"/>
 </p>
+-->
 
 
 <p align="center"> 
